@@ -1,0 +1,9 @@
+register tim
+register joe
+register chris
+vote 30 chris
+scoreboard 1
+vote 13 tim
+vote 23 joe
+scoreboard 2
+profit
